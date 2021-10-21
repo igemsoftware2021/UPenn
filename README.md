@@ -22,7 +22,7 @@ To run the OptoReader, first upload OptoPlate_topArduino.ino to the stimulation 
 Includes files for our 3D-printed parts *Bottom_Adaptor.stl* and *Top_Adaptor.stl*. These files include the 3D model of the top adaptor and bottom adaptor, that fit each pcb board to a microwell plate.
 
 ### PCBs
-Includes schematic files for our printed circuit boards (PCBs) *PlateReader.kicad_pcb* and *optoPlate96.kicad_pcb*. 
+Includes schematic files for our printed circuit boards (PCBs) *PlateReader.kicad_pcb* and *optoPlate96.kicad_pcb*. These can be sent directly to a company that provides printed circuit boards. The board components are soldered directly onto the boards. 
 
 ## Fluorescence Calibration Modeling
 
