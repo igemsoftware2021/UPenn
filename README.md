@@ -14,7 +14,7 @@ The OptoReader can be run using a computer and two Arduino Micros with the follo
 
 *GUI.py* - Python code creating a graphical user interface to take in user experiment inputs including stimulation settings, reading settings, feedback control, and experiment timing.
 
-To run the OptoReader, first upload OptoPlate_topArduino.ino to the stimulation (top) plate Arduino and upload *PlateReader_bottomArduino.ino* to the reading (bottom) Arduino. Note the port name for each Arduino. If necessary, rename the port name from the preset COM11 and COM12 in *OptoReader_Protocol.py*. Finally, run GUI.py to open the graphical user interface and enter your experiment settings. Ensure that the image files *blue_logo.png** and **optologo_small.png* and the Python file **OptoReader_Protocol.py** are saved in the same folder as *GUI.py*.
+To run the OptoReader, first upload OptoPlate_topArduino.ino to the stimulation (top) plate Arduino and upload *PlateReader_bottomArduino.ino* to the reading (bottom) Arduino. Note the port name for each Arduino. If necessary, rename the port name from the preset COM11 and COM12 in *OptoReader_Protocol.py*. Finally, run GUI.py to open the graphical user interface and enter your experiment settings. Ensure that the image files *blue_logo.png* and *optologo_small.png* and the Python file *OptoReader_Protocol.py* are saved in the same folder as *GUI.py*.
 
 ## Hardware
 
